@@ -1,6 +1,6 @@
 +++
-title = "Les tranches de mixage"
-description = "Les élements des tranches de mixage dans Ardour"
+title = "La console de mixage"
+description = "Les élements des tranches de la console de mixage dans Ardour"
 chapter = false
 weight = 1
 +++
@@ -20,8 +20,8 @@ tels que la réverbe et le delay.
 Les _tranches de mixage_ sont accessibles à la fois depuis la fenêtre de l'Éditeur et 
 depuis la fenêtre de la Console de Mixage (raccourci Alt+M pour basculer entre les deux). 
 Les tranches de mixage dans l'une ou l'autre fenêtre (l'Éditeur ou la Console de Mixage) 
-se répercutent mutuellement : toutes les actions effectuées sur une tranche de mixage dans 
-la fenêtre de la Console de Mixage seront répercutées dans la tranche de mixage correspondante
+se répercutent mutuellement : toutes les actions effectuées sur une tranche dans 
+la fenêtre de la Console de Mixage seront répercutées dans la tranche correspondante
 dans la fenêtre de l'Éditeur, et vice-versa. La fenêtre de l'éditeur et la Console de Mixage 
 sont détaillées dans le chapitre Aperçu de l'Interface.
 
