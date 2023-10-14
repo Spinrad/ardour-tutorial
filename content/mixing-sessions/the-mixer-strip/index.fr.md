@@ -1,5 +1,5 @@
 +++
-title = "La console de mixage"
+title = "La tranche de console de mixage"
 description = "Les élements des tranches de la console de mixage dans Ardour"
 chapter = false
 weight = 1
@@ -15,29 +15,28 @@ principaux outils utilisés pour obtenir un bon mix. En plus de ces outils de ba
 de nombreux plugins d'effets peuvent également être utilisée pour améliorer le son,
 tels que la réverbe et le delay.
 
-## Présentation des tranches de mixage
+## Présentation des tranches de la console de mixage
 
-Les _tranches de mixage_ sont accessibles à la fois depuis la fenêtre de l'Éditeur et 
-depuis la fenêtre de la Console de Mixage (raccourci Alt+M pour basculer entre les deux). 
-Les tranches de mixage dans l'une ou l'autre fenêtre (l'Éditeur ou la Console de Mixage) 
+Les _tranches de la console de mixage_ sont accessibles à la fois depuis la fenêtre de l'Éditeur et 
+depuis la fenêtre de la console de mixage (raccourci Alt+M pour basculer entre les deux). 
+Les modification des tranches de la console dans l'une ou l'autre fenêtre (l'éditeur ou la console de mixage) 
 se répercutent mutuellement : toutes les actions effectuées sur une tranche dans 
-la fenêtre de la Console de Mixage seront répercutées dans la tranche correspondante
-dans la fenêtre de l'Éditeur, et vice-versa. La fenêtre de l'éditeur et la Console de Mixage 
+la fenêtre de la console seront répercutées dans la tranche correspondante
+dans la fenêtre de l'éditeur, et vice-versa. La fenêtre de l'éditeur et la console de mixage 
 sont détaillées dans le chapitre Aperçu de l'Interface.
 
-Dans la Fenêtre de l'Éditeur, vous pouvez voir la tranche de mixage de la piste actuellement
+Dans la Fenêtre de l'Éditeur, vous pouvez voir la tranche de la piste actuellement
 sélectionnée sur le côté gauche de la fenêtre. Si vous ne la voyez pas, appuyez sur Shift+E 
-pour afficher la tranche de mixage de l'Éditeur.
+pour afficher la tranche console de l'Éditeur.
 
-La _tranche de mixage_ est la colonne verticale qui contient divers contrôles liés 
-aux flux des signaux audio. Chaque piste et bus dans Ardour a sa propre voie. 
-La tranche de mixage est également l'outil principal que nous utiliserons dans le processus
-de mixage de nos pistes. Dans ce chapitre, nous aurons un aperçu général de la tranche de mixage, 
+La _tranche de console_ est la colonne verticale qui contient divers contrôles liés 
+aux flux des signaux audio. Chaque piste et bus dans Ardour possède sa propre tranche. 
+La tranche est également l'outil principal que nous utiliserons dans le processus
+de mixage de nos pistes. Dans ce chapitre, nous aurons un aperçu général d'une tranche de console, 
 avec chaque section décrite. Nous fournirons également des références aux chapitres 
-contenant des informations spécifiques à chaque aspect des tranches de mixage.
+contenant des informations spécifiques à chaque aspect des tranches de console.
 
-## The Mixer Strip from Top to Bottom
-
+## La tranche de console de haut en bas
 Mixer strips can be accessed from both the _Editor_ window and the _Mixer_
 window (shortcut **Alt+M** to toggle between the two). Mixer strips in either
 window (_Editor_ or _Mixer_) mirror each other: any actions performed on a mixer
