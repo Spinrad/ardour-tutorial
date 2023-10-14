@@ -1,21 +1,26 @@
 +++
-title = "The mixer strip"
-description = "Elements of the mixer strip in Ardour"
+title = "La voie de mixage"
+description = "Les élements de la voie de mixage dans Ardour"
 chapter = false
 weight = 1
 +++
 
-_Mixing_ is the process of converting multiple tracks into a stereo or a
-multi-channel mix where all the instruments can be heard clearly.
+_Le mixage_ est le processus de conversion de plusieurs pistes dans un mix stéréo ou 
+multicanal où tous les instruments peuvent être clairement entendus.
 
-## Mixing Tools
+## Outils de Mixage
 
 _Levels_, _panning_, _equalization (EQ_), and _compression_ are the main tools
 used to achieve a good mix. In addition to these core tools, a wide range of
 plugin effects can also be used to enhance the sound, such as _reverb_ and
 _delay_.  
 
-## Introducing the Mixer Strip
+_Les niveaux_, _les panoramiques, _l'équalisation (EQ)_ et _la compression_ sont les 
+principaux outils utilisés pour obtenir un bon mix. En plus de ces outils de base,
+de nombreux plugins d'effets peuvent également être utilisée pour améliorer le son,
+tels que la réverbe et le delay.
+
+## Présentation de la voie de mixage
 
 The _mixer strip_ is the vertical column that contains various controls related
 to signal flow. Each track and bus in Ardour has its own mixer strip. The mixer
@@ -23,6 +28,14 @@ strip is also the main tool we will use in the process of mixing our Tracks. In
 this chapter, we will get a general overview of the mixer strip, with each
 section described. We will also provide references to chapters containing
 information specific to each aspect of the mixer strip.
+
+
+La _voie de mixage_ est la colonne verticale qui contient divers contrôles liés 
+aux flux des signaux audio. Chaque piste et bus dans Ardour a sa propre voie de mixage. 
+La voie de mixage est également l'outil principal que nous utiliserons dans le processus
+de mixage de nos pistes. Dans ce chapitre, nous aurons un aperçu général de la voie de mixage, 
+avec chaque section décrite. Nous fournirons également des références aux chapitres 
+contenant des informations spécifiques à chaque aspect de la voie de mixage.
 
 ## The Mixer Strip from Top to Bottom
 
