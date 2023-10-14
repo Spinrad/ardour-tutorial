@@ -15,7 +15,7 @@ principaux outils utilisés pour obtenir un bon mix. En plus de ces outils de ba
 de nombreux plugins d'effets peuvent également être utilisée pour améliorer le son,
 tels que la réverbe et le delay.
 
-## Présentation des voies de mixage
+## Présentation des tranches de mixage
 
 Les _tranches de mixage_ sont accessibles à la fois depuis la fenêtre de l'Éditeur et 
 depuis la fenêtre de la Console de Mixage (raccourci Alt+M pour basculer entre les deux). 
