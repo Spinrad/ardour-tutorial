@@ -1,6 +1,6 @@
 +++
-title = "La voie de mixage"
-description = "Les élements de la voie de mixage dans Ardour"
+title = "Les tranches de mixage"
+description = "Les élements des tranches de mixage dans Ardour"
 chapter = false
 weight = 1
 +++
@@ -10,32 +10,31 @@ multicanal où tous les instruments peuvent être clairement entendus.
 
 ## Outils de Mixage
 
-_Levels_, _panning_, _equalization (EQ_), and _compression_ are the main tools
-used to achieve a good mix. In addition to these core tools, a wide range of
-plugin effects can also be used to enhance the sound, such as _reverb_ and
-_delay_.  
-
 _Les niveaux_, _les panoramiques, _l'équalisation (EQ)_ et _la compression_ sont les 
 principaux outils utilisés pour obtenir un bon mix. En plus de ces outils de base,
 de nombreux plugins d'effets peuvent également être utilisée pour améliorer le son,
 tels que la réverbe et le delay.
 
-## Présentation de la voie de mixage
+## Présentation des voies de mixage
 
-The _mixer strip_ is the vertical column that contains various controls related
-to signal flow. Each track and bus in Ardour has its own mixer strip. The mixer
-strip is also the main tool we will use in the process of mixing our Tracks. In
-this chapter, we will get a general overview of the mixer strip, with each
-section described. We will also provide references to chapters containing
-information specific to each aspect of the mixer strip.
+Les _tranches de mixage_ sont accessibles à la fois depuis la fenêtre de l'Éditeur et 
+depuis la fenêtre de la Console de Mixage (raccourci Alt+M pour basculer entre les deux). 
+Les tranches de mixage dans l'une ou l'autre fenêtre (l'Éditeur ou la Console de Mixage) 
+se répercutent mutuellement : toutes les actions effectuées sur une tranche de mixage dans 
+la fenêtre de la Console de Mixage seront répercutées dans la tranche de mixage correspondante
+dans la fenêtre de l'Éditeur, et vice-versa. La fenêtre de l'éditeur et la Console de Mixage 
+sont détaillées dans le chapitre Aperçu de l'Interface.
 
+Dans la Fenêtre de l'Éditeur, vous pouvez voir la tranche de mixage de la piste actuellement
+sélectionnée sur le côté gauche de la fenêtre. Si vous ne la voyez pas, appuyez sur Shift+E 
+pour afficher la tranche de mixage de l'Éditeur.
 
-La _voie de mixage_ est la colonne verticale qui contient divers contrôles liés 
-aux flux des signaux audio. Chaque piste et bus dans Ardour a sa propre voie de mixage. 
-La voie de mixage est également l'outil principal que nous utiliserons dans le processus
-de mixage de nos pistes. Dans ce chapitre, nous aurons un aperçu général de la voie de mixage, 
+La _tranche de mixage_ est la colonne verticale qui contient divers contrôles liés 
+aux flux des signaux audio. Chaque piste et bus dans Ardour a sa propre voie. 
+La tranche de mixage est également l'outil principal que nous utiliserons dans le processus
+de mixage de nos pistes. Dans ce chapitre, nous aurons un aperçu général de la tranche de mixage, 
 avec chaque section décrite. Nous fournirons également des références aux chapitres 
-contenant des informations spécifiques à chaque aspect de la voie de mixage.
+contenant des informations spécifiques à chaque aspect des tranches de mixage.
 
 ## The Mixer Strip from Top to Bottom
 
